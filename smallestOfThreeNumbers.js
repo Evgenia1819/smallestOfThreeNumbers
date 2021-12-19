@@ -4,7 +4,6 @@ return smallestNumber;
 
 }
 
-let result = getSmallestNumber(2, 5, 3);
-console.log(result);
-getSmallestNumber(600, 342, 123);
-getSmallestNumber(25, 21, 4);
+console.log(getSmallestNumber(2, 5, 3));
+console.log(getSmallestNumber(600, 342, 123));
+console.log(getSmallestNumber(25, 21, 4));
